@@ -113,7 +113,7 @@
     "babel-plugin-module-resolver": "^2.7.1",
     "babel-plugin-transform-inline-environment-variables": "^6.8.0",
     "babel-preset-flow": "^6.23.0",
-    "babel-preset-react-native": "1.9.1",
+    "babel-preset-react-native": "5.0.0",
     "concurrently": "^3.5.0",
     "coveralls": "^3.0.0",
     "cz-conventional-changelog": "^2.0.0",
