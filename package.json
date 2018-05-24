@@ -136,7 +136,7 @@
     "prettier": "^1.7.4",
     "react-dom": "16.3.0-alpha.1",
     "react-native-cli": "^2.0.1",
-    "react-test-renderer": "16.3.0-alpha.1",
+    "react-test-renderer": "16.4.0",
     "reactotron-react-native": "^1.14.0",
     "reactotron-redux": "^1.13.0",
     "stylelint": "^8.2.0",
