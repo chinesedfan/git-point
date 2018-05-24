@@ -134,7 +134,7 @@
     "lint-staged": "^3.2.6",
     "minicat": "^1.0.0",
     "prettier": "^1.7.4",
-    "react-dom": "16.3.0-alpha.1",
+    "react-dom": "16.4.0",
     "react-native-cli": "^2.0.1",
     "react-test-renderer": "16.3.0-alpha.1",
     "reactotron-react-native": "^1.14.0",
